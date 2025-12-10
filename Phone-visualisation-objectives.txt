@@ -1,0 +1,59 @@
+Call Duration Distribution: Create a histogram showing the distribution of call durations
+
+Communication Type Count: Generate a bar plot showing the count of each communication type (call, sms, data)
+
+Network Usage: Create a pie chart showing the proportion of usage by each network
+
+Daily Activity: Plot a line chart showing the number of communications per day
+
+Duration by Network: Create a bar plot showing average duration by network
+
+SMS Count by Network: Generate a bar plot showing SMS count for each mobile network
+
+Call Type Distribution: Create a pie chart showing the proportion of call durations (short, medium, long)
+
+Monthly Activity: Plot a bar chart showing total communications per month
+
+Duration Boxplot: Create a boxplot showing the distribution of call durations
+
+Network Type Usage: Generate a count plot showing usage by network type (mobile, data, voicemail)
+
+Duration vs Date: Create a scatter plot of duration against date (with proper date formatting)
+
+Network Performance: Generate a violin plot showing call duration distribution by network
+
+Communication Heatmap: Create a heatmap showing communication patterns by date and network
+
+Cumulative Duration: Plot a line chart showing cumulative call duration over time
+
+Network Comparison: Create a grouped bar plot comparing call and SMS counts by network
+
+Duration Trends: Generate a rolling average plot of call durations over time
+
+Activity by Hour: Create a bar plot showing communication activity by hour of day (if time data available)
+
+Network Duration Distribution: Plot kernel density estimates of call duration for each network
+
+Communication Type Over Time: Create a stacked area chart showing communication types over time
+
+Duration Percentiles: Generate a boxen plot (letter-value plot) showing duration percentiles by network
+
+Anomaly Detection: Create a scatter plot highlighting anomalous call durations (beyond 3 standard deviations)
+
+Network Correlation: Generate a heatmap showing correlation between different networks' usage patterns
+
+Temporal Patterns: Create a subplot grid showing communication patterns by time of day and network
+
+Interactive Duration Plot: Build an interactive plot (using mplcursors or plotly) showing details on hover
+
+Network Usage Timeline: Generate a Gantt-style chart showing network usage over time
+
+Duration Clustering: Create a scatter plot with points colored by duration clusters (using K-means)
+
+Network Performance Radar: Generate a radar chart comparing networks across multiple metrics
+
+Communication Flow: Create a sankey diagram showing flow between date, network, and communication type
+
+Multivariate Analysis: Generate a pairplot showing relationships between multiple variables
+
+Interactive Dashboard: Create a multi-panel dashboard with filters for date, network, and communication type
